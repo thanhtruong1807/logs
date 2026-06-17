@@ -1,0 +1,681 @@
+{
+  "created": [
+    {
+      "path": "/home/appuser/.claude/.last-cleanup",
+      "after": "-rw-r--r--\t24\t2026-06-17 08:20:28.1697641350\t/home/appuser/.claude/.last-cleanup"
+    },
+    {
+      "path": "/home/appuser/.claude/backups",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:22:47.2973339510\t/home/appuser/.claude/backups"
+    },
+    {
+      "path": "/home/appuser/.claude/backups/.claude.json.backup.1781684422407",
+      "after": "-rw-r--r--\t33\t2026-06-17 08:20:22.4070195610\t/home/appuser/.claude/backups/.claude.json.backup.1781684422407"
+    },
+    {
+      "path": "/home/appuser/.claude/backups/.claude.json.backup.1781684567297",
+      "after": "-rw-r--r--\t24323\t2026-06-17 08:22:47.2973339510\t/home/appuser/.claude/backups/.claude.json.backup.1781684567297"
+    },
+    {
+      "path": "/home/appuser/.claude/policy-limits.json",
+      "after": "-rw-------\t359\t2026-06-17 08:20:22.9690572890\t/home/appuser/.claude/policy-limits.json"
+    },
+    {
+      "path": "/home/appuser/.claude/projects",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:20:23.1670330000\t/home/appuser/.claude/projects"
+    },
+    {
+      "path": "/home/appuser/.claude/projects/-home-appuser",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:20:28.1184121570\t/home/appuser/.claude/projects/-home-appuser"
+    },
+    {
+      "path": "/home/appuser/.claude/projects/-home-appuser/87616711-eb15-4e18-b384-733bfccb080a.jsonl",
+      "after": "-rw-------\t161094\t2026-06-17 08:22:46.9984776440\t/home/appuser/.claude/projects/-home-appuser/87616711-eb15-4e18-b384-733bfccb080a.jsonl"
+    },
+    {
+      "path": "/home/appuser/.claude/session-env",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:20:27.4213561640\t/home/appuser/.claude/session-env"
+    },
+    {
+      "path": "/home/appuser/.claude/session-env/87616711-eb15-4e18-b384-733bfccb080a",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:20:27.4213561640\t/home/appuser/.claude/session-env/87616711-eb15-4e18-b384-733bfccb080a"
+    },
+    {
+      "path": "/home/appuser/.claude/sessions",
+      "after": "drwx------\t4096\t2026-06-17 08:22:46.9807244990\t/home/appuser/.claude/sessions"
+    },
+    {
+      "path": "/home/appuser/.claude/shell-snapshots",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:22:46.9847247670\t/home/appuser/.claude/shell-snapshots"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.9123717970\t/home/appuser/workdir/beads-orchestration-setup"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.beads",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8664392810\t/home/appuser/workdir/beads-orchestration-setup/.beads"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.beads/issues.jsonl",
+      "after": "-rw-r--r--\t1986\t2026-06-17 08:21:08.8664392810\t/home/appuser/workdir/beads-orchestration-setup/.beads/issues.jsonl"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.claude",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8683145490\t/home/appuser/workdir/beads-orchestration-setup/.claude"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.claude/hooks",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8671242430\t/home/appuser/workdir/beads-orchestration-setup/.claude/hooks"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.claude/hooks/block-branch-for-epic-child.sh",
+      "after": "-rwxr-xr-x\t2184\t2026-06-17 08:21:08.8675553480\t/home/appuser/workdir/beads-orchestration-setup/.claude/hooks/block-branch-for-epic-child.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.claude/settings.json",
+      "after": "-rw-r--r--\t441\t2026-06-17 08:21:08.8675553480\t/home/appuser/workdir/beads-orchestration-setup/.claude/settings.json"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.claude/skills",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8685424890\t/home/appuser/workdir/beads-orchestration-setup/.claude/skills"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.claude/skills/create-beads-orchestration",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8686756290\t/home/appuser/workdir/beads-orchestration-setup/.claude/skills/create-beads-orchestration"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.claude/skills/create-beads-orchestration/SKILL.md",
+      "after": "-rw-r--r--\t6654\t2026-06-17 08:21:08.8686756290\t/home/appuser/workdir/beads-orchestration-setup/.claude/skills/create-beads-orchestration/SKILL.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.9142108910\t/home/appuser/workdir/beads-orchestration-setup/.git"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/HEAD",
+      "after": "-rw-r--r--\t21\t2026-06-17 08:21:08.8504712000\t/home/appuser/workdir/beads-orchestration-setup/.git/HEAD"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/branches",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:07.3745599820\t/home/appuser/workdir/beads-orchestration-setup/.git/branches"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/config",
+      "after": "-rw-r--r--\t275\t2026-06-17 08:21:08.8611379300\t/home/appuser/workdir/beads-orchestration-setup/.git/config"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/description",
+      "after": "-rw-r--r--\t73\t2026-06-17 08:21:07.3771851830\t/home/appuser/workdir/beads-orchestration-setup/.git/description"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:07.3739327990\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/applypatch-msg.sample",
+      "after": "-rwxr-xr-x\t478\t2026-06-17 08:21:07.3733880980\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/applypatch-msg.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/commit-msg.sample",
+      "after": "-rwxr-xr-x\t896\t2026-06-17 08:21:07.3739327990\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/commit-msg.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/fsmonitor-watchman.sample",
+      "after": "-rwxr-xr-x\t4726\t2026-06-17 08:21:07.3716162610\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/fsmonitor-watchman.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/post-update.sample",
+      "after": "-rwxr-xr-x\t189\t2026-06-17 08:21:07.3676323780\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/post-update.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-applypatch.sample",
+      "after": "-rwxr-xr-x\t424\t2026-06-17 08:21:07.3711358380\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-applypatch.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-commit.sample",
+      "after": "-rwxr-xr-x\t1643\t2026-06-17 08:21:07.3727458330\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-commit.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-merge-commit.sample",
+      "after": "-rwxr-xr-x\t416\t2026-06-17 08:21:07.3688497050\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-merge-commit.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-push.sample",
+      "after": "-rwxr-xr-x\t1374\t2026-06-17 08:21:07.3672065270\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-push.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-rebase.sample",
+      "after": "-rwxr-xr-x\t4898\t2026-06-17 08:21:07.3683395300\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-rebase.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-receive.sample",
+      "after": "-rwxr-xr-x\t544\t2026-06-17 08:21:07.3693924510\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/pre-receive.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/prepare-commit-msg.sample",
+      "after": "-rwxr-xr-x\t1492\t2026-06-17 08:21:07.3721949320\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/prepare-commit-msg.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/push-to-checkout.sample",
+      "after": "-rwxr-xr-x\t2783\t2026-06-17 08:21:07.3705852170\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/push-to-checkout.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/hooks/update.sample",
+      "after": "-rwxr-xr-x\t3650\t2026-06-17 08:21:07.3700170900\t/home/appuser/workdir/beads-orchestration-setup/.git/hooks/update.sample"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/index",
+      "after": "-rw-r--r--\t7709\t2026-06-17 08:21:08.9139764540\t/home/appuser/workdir/beads-orchestration-setup/.git/index"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/info",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:07.3760915910\t/home/appuser/workdir/beads-orchestration-setup/.git/info"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/info/exclude",
+      "after": "-rw-r--r--\t240\t2026-06-17 08:21:07.3760915910\t/home/appuser/workdir/beads-orchestration-setup/.git/info/exclude"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/logs",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8534006310\t/home/appuser/workdir/beads-orchestration-setup/.git/logs"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/logs/HEAD",
+      "after": "-rw-r--r--\t198\t2026-06-17 08:21:08.8547517140\t/home/appuser/workdir/beads-orchestration-setup/.git/logs/HEAD"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8553686680\t/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs/heads",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8553686680\t/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs/heads"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs/heads/main",
+      "after": "-rw-r--r--\t198\t2026-06-17 08:21:08.8563497370\t/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs/heads/main"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs/remotes",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8434807750\t/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs/remotes"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs/remotes/origin",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8443261610\t/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs/remotes/origin"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs/remotes/origin/HEAD",
+      "after": "-rw-r--r--\t198\t2026-06-17 08:21:08.8489567960\t/home/appuser/workdir/beads-orchestration-setup/.git/logs/refs/remotes/origin/HEAD"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/objects",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:07.3877609120\t/home/appuser/workdir/beads-orchestration-setup/.git/objects"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/objects/info",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:07.3877609120\t/home/appuser/workdir/beads-orchestration-setup/.git/objects/info"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/objects/pack",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8624883580\t/home/appuser/workdir/beads-orchestration-setup/.git/objects/pack"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/objects/pack/pack-cfb870a702212e8be9337754a9570af000b3cfc1.idx",
+      "after": "-r--r--r--\t3592\t2026-06-17 08:21:08.7981337010\t/home/appuser/workdir/beads-orchestration-setup/.git/objects/pack/pack-cfb870a702212e8be9337754a9570af000b3cfc1.idx"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/objects/pack/pack-cfb870a702212e8be9337754a9570af000b3cfc1.pack",
+      "after": "-r--r--r--\t593683\t2026-06-17 08:21:08.7971336340\t/home/appuser/workdir/beads-orchestration-setup/.git/objects/pack/pack-cfb870a702212e8be9337754a9570af000b3cfc1.pack"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/packed-refs",
+      "after": "-rw-r--r--\t112\t2026-06-17 08:21:08.8371828710\t/home/appuser/workdir/beads-orchestration-setup/.git/packed-refs"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/refs",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8411365880\t/home/appuser/workdir/beads-orchestration-setup/.git/refs"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/refs/heads",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8563497370\t/home/appuser/workdir/beads-orchestration-setup/.git/refs/heads"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/refs/heads/main",
+      "after": "-rw-r--r--\t41\t2026-06-17 08:21:08.8534006310\t/home/appuser/workdir/beads-orchestration-setup/.git/refs/heads/main"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/refs/remotes",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8421440490\t/home/appuser/workdir/beads-orchestration-setup/.git/refs/remotes"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/refs/remotes/origin",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8492434110\t/home/appuser/workdir/beads-orchestration-setup/.git/refs/remotes/origin"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/refs/remotes/origin/HEAD",
+      "after": "-rw-r--r--\t30\t2026-06-17 08:21:08.8492434110\t/home/appuser/workdir/beads-orchestration-setup/.git/refs/remotes/origin/HEAD"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/refs/tags",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8406829010\t/home/appuser/workdir/beads-orchestration-setup/.git/refs/tags"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/refs/tags/v2.2.0",
+      "after": "-rw-r--r--\t41\t2026-06-17 08:21:08.8406829010\t/home/appuser/workdir/beads-orchestration-setup/.git/refs/tags/v2.2.0"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.git/shallow",
+      "after": "-rw-r--r--\t41\t2026-06-17 08:21:08.5357447870\t/home/appuser/workdir/beads-orchestration-setup/.git/shallow"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.github",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8695096370\t/home/appuser/workdir/beads-orchestration-setup/.github"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.github/workflows",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8697548550\t/home/appuser/workdir/beads-orchestration-setup/.github/workflows"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.github/workflows/release.yml",
+      "after": "-rw-r--r--\t1237\t2026-06-17 08:21:08.8697548550\t/home/appuser/workdir/beads-orchestration-setup/.github/workflows/release.yml"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/.gitignore",
+      "after": "-rw-r--r--\t178\t2026-06-17 08:21:08.8697548550\t/home/appuser/workdir/beads-orchestration-setup/.gitignore"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/LICENSE",
+      "after": "-rw-r--r--\t1068\t2026-06-17 08:21:08.8704464260\t/home/appuser/workdir/beads-orchestration-setup/LICENSE"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/README.md",
+      "after": "-rw-r--r--\t8281\t2026-06-17 08:21:08.8709823520\t/home/appuser/workdir/beads-orchestration-setup/README.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/SKILL.md",
+      "after": "-rw-r--r--\t8662\t2026-06-17 08:21:08.8714064040\t/home/appuser/workdir/beads-orchestration-setup/SKILL.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/bootstrap.py",
+      "after": "-rwxr-xr-x\t33888\t2026-06-17 08:21:08.8719872290\t/home/appuser/workdir/beads-orchestration-setup/bootstrap.py"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/docs",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8724922260\t/home/appuser/workdir/beads-orchestration-setup/docs"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/docs/memory-architecture.md",
+      "after": "-rw-r--r--\t4160\t2026-06-17 08:21:08.8724922260\t/home/appuser/workdir/beads-orchestration-setup/docs/memory-architecture.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8808670220\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/CLAUDE.md",
+      "after": "-rw-r--r--\t169\t2026-06-17 08:21:08.8735527960\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/CLAUDE.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/README.md",
+      "after": "-rw-r--r--\t3148\t2026-06-17 08:21:08.8735527960\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/README.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/pyproject.toml",
+      "after": "-rw-r--r--\t573\t2026-06-17 08:21:08.8741036530\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/pyproject.toml"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8748728540\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8763290860\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator/CLAUDE.md",
+      "after": "-rw-r--r--\t169\t2026-06-17 08:21:08.8751877220\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator/CLAUDE.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator/__init__.py",
+      "after": "-rw-r--r--\t86\t2026-06-17 08:21:08.8751877220\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator/__init__.py"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator/agent_loader.py",
+      "after": "-rw-r--r--\t2340\t2026-06-17 08:21:08.8757593920\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator/agent_loader.py"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator/provider_client.py",
+      "after": "-rw-r--r--\t9811\t2026-06-17 08:21:08.8763290860\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator/provider_client.py"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator/server.py",
+      "after": "-rw-r--r--\t4560\t2026-06-17 08:21:08.8763290860\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/src/mcp_provider_delegator/server.py"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8802466340\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/CLAUDE.md",
+      "after": "-rw-r--r--\t169\t2026-06-17 08:21:08.8769812620\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/CLAUDE.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/fixtures",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8779667190\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/fixtures"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/fixtures/CLAUDE.md",
+      "after": "-rw-r--r--\t169\t2026-06-17 08:21:08.8775663730\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/fixtures/CLAUDE.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/fixtures/scout.md",
+      "after": "-rw-r--r--\t229\t2026-06-17 08:21:08.8779667190\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/fixtures/scout.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/test_agent_loader.py",
+      "after": "-rw-r--r--\t916\t2026-06-17 08:21:08.8784908340\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/test_agent_loader.py"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/test_integration.py",
+      "after": "-rw-r--r--\t1122\t2026-06-17 08:21:08.8791750610\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/test_integration.py"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/test_provider_client.py",
+      "after": "-rw-r--r--\t1713\t2026-06-17 08:21:08.8796651550\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/test_provider_client.py"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/test_server.py",
+      "after": "-rw-r--r--\t911\t2026-06-17 08:21:08.8802466340\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/tests/test_server.py"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/uv.lock",
+      "after": "-rw-r--r--\t142408\t2026-06-17 08:21:08.8826735900\t/home/appuser/workdir/beads-orchestration-setup/mcp-provider-delegator/uv.lock"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/package.json",
+      "after": "-rw-r--r--\t720\t2026-06-17 08:21:08.8835620010\t/home/appuser/workdir/beads-orchestration-setup/package.json"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/screenshots",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8840254710\t/home/appuser/workdir/beads-orchestration-setup/screenshots"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/screenshots/kanbanui.png",
+      "after": "-rw-r--r--\t526408\t2026-06-17 08:21:08.8938109420\t/home/appuser/workdir/beads-orchestration-setup/screenshots/kanbanui.png"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/scripts",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8948791250\t/home/appuser/workdir/beads-orchestration-setup/scripts"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/scripts/cli.js",
+      "after": "-rwxr-xr-x\t1459\t2026-06-17 08:21:08.8944272840\t/home/appuser/workdir/beads-orchestration-setup/scripts/cli.js"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/scripts/postinstall.js",
+      "after": "-rwxr-xr-x\t1909\t2026-06-17 08:21:08.8948791250\t/home/appuser/workdir/beads-orchestration-setup/scripts/postinstall.js"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/skills",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8965623650\t/home/appuser/workdir/beads-orchestration-setup/skills"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/skills/create-beads-orchestration",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8959602810\t/home/appuser/workdir/beads-orchestration-setup/skills/create-beads-orchestration"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/skills/create-beads-orchestration/SKILL.md",
+      "after": "-rw-r--r--\t8662\t2026-06-17 08:21:08.8959602810\t/home/appuser/workdir/beads-orchestration-setup/skills/create-beads-orchestration/SKILL.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/skills/subagents-discipline",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.8965623650\t/home/appuser/workdir/beads-orchestration-setup/skills/subagents-discipline"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/skills/subagents-discipline/SKILL.md",
+      "after": "-rw-r--r--\t4668\t2026-06-17 08:21:08.8970660200\t/home/appuser/workdir/beads-orchestration-setup/skills/subagents-discipline/SKILL.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.9119112860\t/home/appuser/workdir/beads-orchestration-setup/templates"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/CLAUDE.md",
+      "after": "-rw-r--r--\t6206\t2026-06-17 08:21:08.8975476450\t/home/appuser/workdir/beads-orchestration-setup/templates/CLAUDE.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/agents",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.9009561830\t/home/appuser/workdir/beads-orchestration-setup/templates/agents"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/agents/architect.md",
+      "after": "-rw-r--r--\t2447\t2026-06-17 08:21:08.8981982210\t/home/appuser/workdir/beads-orchestration-setup/templates/agents/architect.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/agents/code-reviewer.md",
+      "after": "-rw-r--r--\t6340\t2026-06-17 08:21:08.8987778100\t/home/appuser/workdir/beads-orchestration-setup/templates/agents/code-reviewer.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/agents/detective.md",
+      "after": "-rw-r--r--\t2288\t2026-06-17 08:21:08.8991975740\t/home/appuser/workdir/beads-orchestration-setup/templates/agents/detective.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/agents/discovery.md",
+      "after": "-rw-r--r--\t15492\t2026-06-17 08:21:08.8997597290\t/home/appuser/workdir/beads-orchestration-setup/templates/agents/discovery.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/agents/merge-supervisor.md",
+      "after": "-rw-r--r--\t2872\t2026-06-17 08:21:08.9003378390\t/home/appuser/workdir/beads-orchestration-setup/templates/agents/merge-supervisor.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/agents/scout.md",
+      "after": "-rw-r--r--\t2279\t2026-06-17 08:21:08.9003378390\t/home/appuser/workdir/beads-orchestration-setup/templates/agents/scout.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/agents/scribe.md",
+      "after": "-rw-r--r--\t1825\t2026-06-17 08:21:08.9009561830\t/home/appuser/workdir/beads-orchestration-setup/templates/agents/scribe.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/beads-workflow-injection-api.md",
+      "after": "-rw-r--r--\t3290\t2026-06-17 08:21:08.9014542000\t/home/appuser/workdir/beads-orchestration-setup/templates/beads-workflow-injection-api.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/beads-workflow-injection-git.md",
+      "after": "-rw-r--r--\t2879\t2026-06-17 08:21:08.9020005410\t/home/appuser/workdir/beads-orchestration-setup/templates/beads-workflow-injection-git.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/beads-workflow-injection.md",
+      "after": "-rw-r--r--\t3194\t2026-06-17 08:21:08.9024946280\t/home/appuser/workdir/beads-orchestration-setup/templates/beads-workflow-injection.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/frontend-reviews-requirement.md",
+      "after": "-rw-r--r--\t1856\t2026-06-17 08:21:08.9030257230\t/home/appuser/workdir/beads-orchestration-setup/templates/frontend-reviews-requirement.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.9086720260\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/block-orchestrator-tools.sh",
+      "after": "-rwxr-xr-x\t6775\t2026-06-17 08:21:08.9034901310\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/block-orchestrator-tools.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/clarify-vague-request.sh",
+      "after": "-rwxr-xr-x\t1028\t2026-06-17 08:21:08.9041867030\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/clarify-vague-request.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/enforce-bead-for-supervisor.sh",
+      "after": "-rwxr-xr-x\t1378\t2026-06-17 08:21:08.9041867030\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/enforce-bead-for-supervisor.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/enforce-branch-before-edit.sh",
+      "after": "-rwxr-xr-x\t1564\t2026-06-17 08:21:08.9046704230\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/enforce-branch-before-edit.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/enforce-concise-response.sh",
+      "after": "-rwxr-xr-x\t1140\t2026-06-17 08:21:08.9052441820\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/enforce-concise-response.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/enforce-sequential-dispatch.sh",
+      "after": "-rw-r--r--\t3795\t2026-06-17 08:21:08.9058151620\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/enforce-sequential-dispatch.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/inject-discipline-reminder.sh",
+      "after": "-rwxr-xr-x\t809\t2026-06-17 08:21:08.9058151620\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/inject-discipline-reminder.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/log-dispatch-prompt.sh",
+      "after": "-rwxr-xr-x\t1203\t2026-06-17 08:21:08.9064055140\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/log-dispatch-prompt.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/memory-capture.sh",
+      "after": "-rwxr-xr-x\t3463\t2026-06-17 08:21:08.9068808040\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/memory-capture.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/nudge-claude-md-update.sh",
+      "after": "-rwxr-xr-x\t1553\t2026-06-17 08:21:08.9068808040\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/nudge-claude-md-update.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/remind-inprogress.sh",
+      "after": "-rwxr-xr-x\t390\t2026-06-17 08:21:08.9074481470\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/remind-inprogress.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/session-start.sh",
+      "after": "-rw-r--r--\t3913\t2026-06-17 08:21:08.9080443280\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/session-start.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/validate-completion.sh",
+      "after": "-rw-r--r--\t5302\t2026-06-17 08:21:08.9080443280\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/validate-completion.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/hooks/validate-epic-close.sh",
+      "after": "-rwxr-xr-x\t2974\t2026-06-17 08:21:08.9086720260\t/home/appuser/workdir/beads-orchestration-setup/templates/hooks/validate-epic-close.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/mcp.json.template",
+      "after": "-rw-r--r--\t268\t2026-06-17 08:21:08.9091617580\t/home/appuser/workdir/beads-orchestration-setup/templates/mcp.json.template"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/memory",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.9096292020\t/home/appuser/workdir/beads-orchestration-setup/templates/memory"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/memory/recall.sh",
+      "after": "-rwxr-xr-x\t3446\t2026-06-17 08:21:08.9096292020\t/home/appuser/workdir/beads-orchestration-setup/templates/memory/recall.sh"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/settings.json",
+      "after": "-rw-r--r--\t2144\t2026-06-17 08:21:08.9101997160\t/home/appuser/workdir/beads-orchestration-setup/templates/settings.json"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/skills",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.9112510680\t/home/appuser/workdir/beads-orchestration-setup/templates/skills"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/skills/react-best-practices",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.9107162450\t/home/appuser/workdir/beads-orchestration-setup/templates/skills/react-best-practices"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/skills/react-best-practices/SKILL.md",
+      "after": "-rw-r--r--\t10896\t2026-06-17 08:21:08.9112510680\t/home/appuser/workdir/beads-orchestration-setup/templates/skills/react-best-practices/SKILL.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/skills/subagents-discipline",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.9112510680\t/home/appuser/workdir/beads-orchestration-setup/templates/skills/subagents-discipline"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/skills/subagents-discipline/SKILL.md",
+      "after": "-rw-r--r--\t4222\t2026-06-17 08:21:08.9119112860\t/home/appuser/workdir/beads-orchestration-setup/templates/skills/subagents-discipline/SKILL.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/templates/ui-constraints.md",
+      "after": "-rw-r--r--\t3159\t2026-06-17 08:21:08.9123717970\t/home/appuser/workdir/beads-orchestration-setup/templates/ui-constraints.md"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/tests",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:08.9128812750\t/home/appuser/workdir/beads-orchestration-setup/tests"
+    },
+    {
+      "path": "/home/appuser/workdir/beads-orchestration-setup/tests/test-validate-epic-close.sh",
+      "after": "-rwxr-xr-x\t5279\t2026-06-17 08:21:08.9128812750\t/home/appuser/workdir/beads-orchestration-setup/tests/test-validate-epic-close.sh"
+    },
+    {
+      "path": "/tmp/claude-1000",
+      "after": "drwx------\t4096\t2026-06-17 08:20:27.4250281360\t/tmp/claude-1000"
+    },
+    {
+      "path": "/tmp/claude-1000/-home-appuser",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:20:27.4250281360\t/tmp/claude-1000/-home-appuser"
+    },
+    {
+      "path": "/tmp/claude-1000/-home-appuser/87616711-eb15-4e18-b384-733bfccb080a",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:20:27.4250281360\t/tmp/claude-1000/-home-appuser/87616711-eb15-4e18-b384-733bfccb080a"
+    },
+    {
+      "path": "/tmp/claude-1000/-home-appuser/87616711-eb15-4e18-b384-733bfccb080a/tasks",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:22:13.9005038940\t/tmp/claude-1000/-home-appuser/87616711-eb15-4e18-b384-733bfccb080a/tasks"
+    },
+    {
+      "path": "/tmp/fs_after.txt",
+      "after": "-rw-r--r--\t0\t2026-06-17 08:22:47.9907923030\t/tmp/fs_after.txt"
+    }
+  ],
+  "modified": [
+    {
+      "path": "/home/appuser",
+      "before": "drwxr-xr-x\t4096\t2026-06-17 08:20:20.7329071810\t/home/appuser",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:22:47.3027461150\t/home/appuser"
+    },
+    {
+      "path": "/home/appuser/.claude",
+      "before": "drwxr-xr-x\t4096\t2026-06-17 08:20:20.7309070470\t/home/appuser/.claude",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:20:28.1684063120\t/home/appuser/.claude"
+    },
+    {
+      "path": "/home/appuser/.claude.json",
+      "before": "-rw-r--r--\t33\t2026-06-17 08:20:20.7329071810\t/home/appuser/.claude.json",
+      "after": "-rw-r--r--\t24406\t2026-06-17 08:22:47.2992143600\t/home/appuser/.claude.json"
+    },
+    {
+      "path": "/home/appuser/workdir",
+      "before": "drwxr-xr-x\t4096\t2026-06-17 08:20:20.7329071810\t/home/appuser/workdir",
+      "after": "drwxr-xr-x\t4096\t2026-06-17 08:21:07.3620372990\t/home/appuser/workdir"
+    },
+    {
+      "path": "/tmp",
+      "before": "drwxrwxrwt\t4096\t2026-06-17 08:20:21.7729769990\t/tmp",
+      "after": "drwxrwxrwt\t4096\t2026-06-17 08:22:47.9907923030\t/tmp"
+    },
+    {
+      "path": "/tmp/fs_before.txt",
+      "before": "-rw-r--r--\t0\t2026-06-17 08:20:21.7729769990\t/tmp/fs_before.txt",
+      "after": "-rw-r--r--\t1495\t2026-06-17 08:20:21.7759772000\t/tmp/fs_before.txt"
+    }
+  ],
+  "deleted": [
+    {
+      "path": "/home/appuser/.claude/todos",
+      "before": "drwxr-xr-x\t4096\t2026-06-17 08:20:20.7259067110\t/home/appuser/.claude/todos"
+    }
+  ],
+  "unchanged": [
+    "/home/appuser/.bash_logout",
+    "/home/appuser/.bashrc",
+    "/home/appuser/.claude/cache",
+    "/home/appuser/.claude/debug",
+    "/home/appuser/.claude/skills",
+    "/home/appuser/.claude/skills/avivk5498-claude-code-beads-orchestration-dot-claude-skills-create-beads-orchestration",
+    "/home/appuser/.claude/skills/avivk5498-claude-code-beads-orchestration-dot-claude-skills-create-beads-orchestration/SKILL.md",
+    "/home/appuser/.profile",
+    "/tmp/claude_env.sh",
+    "/tmp/nova-requirements.txt",
+    "/tmp/user_prompt.txt",
+    "/var/tmp"
+  ],
+  "num_created": 155,
+  "num_modified": 6,
+  "num_deleted": 1,
+  "num_unchanged": 12,
+  "monitor": "find_based_no_smart_monitor"
+}
